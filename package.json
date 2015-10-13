@@ -1,0 +1,32 @@
+{
+  "name": "react-study",
+  "version": "0.0.1",
+  "description": "学习React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luckyadam/react-study.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "luckyadam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luckyadam/react-study/issues"
+  },
+  "homepage": "https://github.com/luckyadam/react-study#readme",
+  "dependencies": {
+    "babel-core": "^5.8.25",
+    "body-parser": "^1.14.1",
+    "connect-mongo": "^0.8.2",
+    "express": "^4.13.3",
+    "express-session": "^1.11.3",
+    "mongoose": "^4.1.10",
+    "react": "^0.14.0",
+    "react-dom": "^0.14.0"
+  }
+}
